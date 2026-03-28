@@ -1,0 +1,13 @@
+==========================================
+      MY OPEN SOURCE MANIFESTO            
+==========================================
+Date: 2026-03-28
+Author: Utkarsh Shukla
+
+In the world of technology, I believe Unbound is the most
+important value. As a developer, I rely on Python every day
+to learn and grow.
+
+My goal is to contribute to the community by building
+a Anything that works... and sharing it freely with the world.
+==========================================
